@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 4f1b8fb48ce2dd347bbfd2b54dad9788
+  productGUID: 6a0f06a05bcd1484b828386135e6cafe
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -70,7 +70,7 @@ PlayerSettings:
   androidBlitType: 0
   defaultIsNativeResolution: 1
   macRetinaSupport: 0
-  runInBackground: 0
+  runInBackground: 1
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
@@ -913,8 +913,7 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled:
-    UNet: 1
+  cloudServicesEnabled: {}
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -936,7 +935,7 @@ PlayerSettings:
   apiCompatibilityLevel: 3
   cloudProjectId: 6748bacd-0913-4867-9a6f-736ece289244
   framebufferDepthMemorylessMode: 0
-  projectName: VRProjectSeptember
+  projectName: 
   organizationId: uriel-alejandro-estrada-soubran
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
